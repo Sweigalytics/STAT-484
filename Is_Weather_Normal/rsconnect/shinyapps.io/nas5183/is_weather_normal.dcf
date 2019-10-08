@@ -1,0 +1,10 @@
+name: is_weather_normal
+title:
+username:
+account: nas5183
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1292932
+bundleId: 2478406
+url: https://sweigalytics.shinyapps.io/is_weather_normal/
+when: 1570496358.48784
